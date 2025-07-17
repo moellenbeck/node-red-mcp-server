@@ -27,10 +27,7 @@
     "nodes": {
       "mcp-tools": "mcp-tools.js"
     },
-    "examples": {
-      "example flow modular": "example-flow-modular.json",
-      "example flow": "example-flow.json"
-    }
+    "examples": "."
   },
   "engines": {
     "node": ">=22.0.0"
